@@ -14,7 +14,7 @@ import { TaskProvider } from "./contexts/TaskProvider";
 
 ReactDOM.render(
   <TaskProvider>
-    <BrowserRouter>
+    <BrowserRouter basename={window.location.pathname || ""}>
       <React.StrictMode>
         <Routes>
           <Route path="/" element={<App />} />
