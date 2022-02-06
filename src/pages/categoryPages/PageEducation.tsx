@@ -13,7 +13,7 @@ function PageEducation() {
   const { state } = useContext(TaskContext);
   return (
     <PageContainer color="#f8a926">
-      <HeadingPage>Family</HeadingPage>
+      <HeadingPage>Education</HeadingPage>
       <TaskContainer>
         {state.tasks?.filter((item) => item.task.type === "EDUCATION").length >
         0 ? (
