@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/goal-tracker-app/static/css/main.c2ea99cc.css",
-    "main.js": "/goal-tracker-app/static/js/main.1927a033.js",
+    "main.js": "/goal-tracker-app/static/js/main.fda85786.js",
     "static/js/787.ab48112d.chunk.js": "/goal-tracker-app/static/js/787.ab48112d.chunk.js",
     "index.html": "/goal-tracker-app/index.html",
     "main.c2ea99cc.css.map": "/goal-tracker-app/static/css/main.c2ea99cc.css.map",
-    "main.1927a033.js.map": "/goal-tracker-app/static/js/main.1927a033.js.map",
+    "main.fda85786.js.map": "/goal-tracker-app/static/js/main.fda85786.js.map",
     "787.ab48112d.chunk.js.map": "/goal-tracker-app/static/js/787.ab48112d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2ea99cc.css",
-    "static/js/main.1927a033.js"
+    "static/js/main.fda85786.js"
   ]
 }
